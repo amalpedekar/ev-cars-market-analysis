@@ -43,15 +43,15 @@ Each observation represents a unique electric vehicle model.
 
 ### 🔹 Market Segmentation (K-Means Clustering)
 
-![K-Means Clusters](outputs/kmeans_clusters.png)
+![K-Means Clusters](outputs/k-means%20clusters.png)
 
 ### 🔹 Hierarchical Clustering
 
-![Hierarchical Clustering](outputs/hierarchical_clustering.png)
+![Hierarchical Clustering](outputs/hierarchical%20clustering.png)
 
 ### 🔹 Self-Organizing Map (SOM)
 
-![SOM Mapping](outputs/som_mapping.png)
+![SOM Mapping](outputs/som%20mapping.png)
 
 ### 🔹 Distance Matrix Analysis
 
