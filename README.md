@@ -55,7 +55,12 @@ Each observation represents a unique electric vehicle model.
 
 ### 🔹 Distance Matrix Analysis
 
-![Distance Matrix](outputs/euclidean_distance.png)
+![Euclidean Distance Matrix Analysis](https://github.com/amalpedekar/ev-cars-market-analysis/blob/outputs/Euclidean%20Distance%20Matrix%20Analysis.png?raw=true)
+
+![Manhattan Distance Matrix Analysis](https://github.com/amalpedekar/ev-cars-market-analysis/blob/outputs/Manhattan%20Distance%20Matrix%20Analysis.png?raw=true)
+
+![Maximum Distance Matrix Analysis](https://github.com/amalpedekar/ev-cars-market-analysis/blob/outputs/Maximum%20Distance%20Matrix%20Analysis.png?raw=true)
+
 
 ---
 
@@ -168,25 +173,6 @@ It includes EV attributes such as:
 2. Open `scripts/ev_analysis.R` in RStudio
 3. Update dataset path if required
 4. Run the script to generate outputs
-
----
-
-## 📁 Project Structure
-
-```id="sk6w7f"
-ev-market-analysis-r/
-│
-├── scripts/
-│   └── ev_analysis.R
-│
-├── outputs/
-│   ├── kmeans_clusters.png
-│   ├── hierarchical_clustering.png
-│   ├── som_mapping.png
-│   ├── euclidean_distance.png
-│
-├── README.md
-```
 
 ---
 
