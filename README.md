@@ -43,19 +43,19 @@ Each observation represents a unique electric vehicle model.
 
 ### 🔹 Market Segmentation (K-Means Clustering)
 
-![K-Means Clusters](outputs/K-Means%20Clusters.png)
+![K-Means Clusters](https://github.com/amalpedekar/ev-cars-market-analysis/blob/outputs/K-Means%20Cluster.png?raw=true)
 
 ### 🔹 Hierarchical Clustering
 
-![Hierarchical Clustering](outputs/Hierarchical%20Clustering.png)
+![Hierarchical Clustering](https://github.com/amalpedekar/ev-cars-market-analysis/blob/outputs/Hierarchical%20Clustering.png?raw=true)
 
 ### 🔹 Self-Organizing Map (SOM)
 
-![SOM Mapping](outputs/SOM%20Mapping-%20Battery.png)
+![SOM Mapping](https://github.com/amalpedekar/ev-cars-market-analysis/blob/outputs/SOM%20Mapping-%20Battery.png?raw=true)
 
-![SOM Mapping](outputs/SOM%20Mapping-%20Price.png)
+![SOM Mapping](https://github.com/amalpedekar/ev-cars-market-analysis/blob/outputs/SOM%20Mapping-%20Price.png?raw=true)
 
-![SOM Mapping](outputs/SOM%20Mapping-%20Clusters.png)
+![SOM Mapping](https://github.com/amalpedekar/ev-cars-market-analysis/blob/outputs/SOM%20Mapping-%20Clusters.png?raw=true)
 
 ### 🔹 Distance Matrix Analysis
 
